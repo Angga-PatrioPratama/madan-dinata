@@ -14,11 +14,11 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 Learning Never Stops 🚀
 
-- 💬 Ask me about ** Backend Web Development, Node js, MongoDB**
+<!-- - 💬 Ask me about ** Backend Web Development, Node js, MongoDB** -->
 
 <!-- - 👨‍💻 Check out my personal portfolio : **<a href="https://jigarsable.netlify.app/" target="_blank">Portfolio</a>** -->
 
-- 😄 Pronouns: He/His
+<!-- - 😄 Pronouns: He/His -->
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -38,18 +38,19 @@ You can click the Preview link to take a look at your changes.
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
-<h3 align="left">Languages :</h3>
+<!-- <h3 align="left">Languages :</h3>
 <div align="left">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 </div>
 
 <h3 align="left">Databases :</h3>
-<div align="left">
+<div align="left"> -->
 <!--   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> -->
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</div>
+<!--   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> -->
+<!-- </div> -->
 
 
 <h3 align="left">Hosting :</h3>
