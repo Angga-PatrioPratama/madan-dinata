@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <!--   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> -->
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
 <h3 align="left">Hosting :</h3>
@@ -54,8 +54,8 @@ You can click the Preview link to take a look at your changes.
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=madan-dinata&show_icons=true&theme=dark&locale=en" alt="madan-dinata" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=madan-dinata&show_icons=true&theme=dark&locale=en&layout=compact" alt="madan-dinata" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=madan-dinata&include_all_commits=true&count_private=true&show_icons=true&theme=dark&locale=en" alt="madan-dinata-github-stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=madan-dinata&show_icons=true&theme=dark&hide=css,html,php&locale=en&layout=compact" alt="madan-dinata-top-language" /></td>
   </tr>
 </table>
 
